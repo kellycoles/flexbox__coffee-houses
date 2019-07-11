@@ -1,0 +1,24 @@
+
+body{
+  width: 70%;
+    margin: 40px auto;
+}
+.pageHeader {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+
+}
+
+.shop {
+  border: 1px dotted black;
+  width: 275px;
+  height:20px;
+}
